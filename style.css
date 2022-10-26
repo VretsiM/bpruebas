@@ -6,6 +6,10 @@ h1 {
     color: blue;
 }
 
-#tam {
+.tam {
     font-size: 18px;
+}
+
+p { 
+    background-color: black;
 }
